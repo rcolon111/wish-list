@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Wish Iteam" language="en" table="x_1324405_wish_lis_wish_iteam">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Wish Iteam</label>
+            <language>en</language>
+            <name>x_1324405_wish_lis_wish_iteam</name>
+            <plural>Wish Iteams</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 14:08:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wish Iteam</sys_name>
+            <sys_package display_value="Wish List" source="x_1324405_wish_lis">440c4e12c32b4210857538bc0501314d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">440c4e12c32b4210857538bc0501314d</sys_scope>
+            <sys_update_name>sys_documentation_x_1324405_wish_lis_wish_iteam__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 14:08:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
